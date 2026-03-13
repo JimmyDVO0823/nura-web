@@ -65,3 +65,5 @@
   * **Descripción:** Actualiza los datos de un servicio existente.
 * **`DELETE /api/admin/servicios/{id}`**
   * **Descripción:** Elimina un servicio del catálogo.
+
+  [⬅️ Anterior: Inicio](README.md) | [Siguiente: Arquitectura del Sistema ➡️](arquitectura.md)
