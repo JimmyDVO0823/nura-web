@@ -66,4 +66,4 @@
 * **`DELETE /api/admin/servicios/{id}`**
   * **Descripción:** Elimina un servicio del catálogo.
 
-  [⬅️ Anterior: Inicio](README.md) | [Siguiente: Arquitectura del Sistema ➡️](arquitectura.md)
+  [⬅️ Anterior: Inicio](../README.md) | [Siguiente: Arquitectura del Sistema ➡️](arquitectura.md)
